@@ -86,7 +86,7 @@ export default function Home() {
     "The Coach of the Coach",
     "The Conference",
     "The Confidence of a British Voice",
-    "The door to the Great Boringness",
+    "The Door to the Great Boringness",
     "The Fear is The Best",
     "The Priest of the Future",
     "Techno Zombie",
