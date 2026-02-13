@@ -136,7 +136,7 @@ export const catalogData: Work[] = [
         content: 'A meticulous dissection of institutional gaze: 180 photographic fragments arrayed in grid-like taxonomy. The work stages the curator as optical prosthesis, refracting vision through layers of selection, authority, and mediated perception. What appears as archival taxonomy reveals itself as self-reflexive critique: the lens does not clarify but constructs. In its obsessive seriality and clinical presentation, the installation both mimics and subverts curatorial logic, leaving the viewer caught between observer and observed. \n\n180 photographic pieces, single installation'
         },
         { type: 'video',
-        content: ''
+        content: 'SRB6dEiYvmeG023lhMINOL9K6nPrbWUiRfvK3u4DWIYs'
         },
 
     ]},
