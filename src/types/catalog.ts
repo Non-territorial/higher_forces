@@ -1,10 +1,11 @@
-export type SlideType = 'text' | 'image' | 'video';
+export type SlideType = 'text' | 'image' | 'video' | 'mixed';
 
 export interface Slide {
   type: SlideType;
-  content: string; // For text: the description text
-                   // For image: Vercel Blob URL (https://...)
-                   // For video: Mux playback ID
+  title?: string;
+  content: string;       // main text / description / caption
+  imageUrl?: string;     // for image + mixed
+  videoId?: string;      // for video
 }
 
 export interface Work {

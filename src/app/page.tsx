@@ -10,7 +10,6 @@ export default function Home() {
   const [selectedWork, setSelectedWork] = useState<Work | null>(null);
   
   const titles = [
-    "0UJN",
     "100% Intuition",
     "Art Effect Pill",
     "Bad Actors",
@@ -63,7 +62,6 @@ export default function Home() {
     "Me Happy Now",
     "Monitoring Room",
     "Moving Emptiness",
-    "New Bullion",
     "New conductor",
     "No Money No Honey",
     "No More Heroes, The Show Must Go On, Only The Brave",
@@ -75,7 +73,6 @@ export default function Home() {
     "Post Hope Society",
     "Powerpoint Presentation of the Planet",
     "Practicing Utopia",
-    "Progress Billion Group",
     "Real Estate Maniac",
     "Reception",
     "Silence Ventures",
@@ -93,6 +90,7 @@ export default function Home() {
     "Thermo Frames",
     "Transcendental machine",
     "Travel Simulation Park",
+    "UJN",
     "Un-Professional",
     "Universal Leader",
     "Unsubscribe",
