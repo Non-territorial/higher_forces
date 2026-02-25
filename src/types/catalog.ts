@@ -6,6 +6,7 @@ export interface Slide {
   content: string;       // main text / description / caption
   imageUrl?: string;     // for image + mixed
   videoId?: string;      // for video
+  galleryImages?: string[];
 }
 
 export interface Work {
@@ -14,3 +15,7 @@ export interface Work {
   available: boolean;
   slides: Slide[];
 }
+
+
+
+

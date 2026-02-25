@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { Work } from '@/types/catalog';
 import MuxPlayer from '@mux/mux-player-react';
 
+
 interface CarouselProps {
   work: Work;
   onClose: () => void;
@@ -11,6 +12,7 @@ interface CarouselProps {
 
 export default function Carousel({ work, onClose }: CarouselProps) {
   const [currentSlide, setCurrentSlide] = useState(0);
+  const [showGallery, setShowGallery] = useState(false);
 
   const goToNext = () => {
     if (currentSlide < work.slides.length - 1) {
@@ -44,13 +46,27 @@ export default function Carousel({ work, onClose }: CarouselProps) {
   </div>
   )}
 
-        {slide.type === 'image' && (
-          <img
-            src={slide.content}
-            alt={`${work.title} - slide ${currentSlide + 1}`}
-            className="max-w-full max-h-full object-contain pointer-events-auto"
-          />
-        )}
+       {slide.type === 'image' && (
+  <div className="w-full max-w-5xl mx-auto pointer-events-auto">
+    <div className="flex overflow-x-auto snap-x snap-mandatory gap-6 pb-4">
+      <img
+        src={slide.content}
+        alt={`${work.title} - main image`}
+        className="h-[80vh] md:h-[85vh] object-contain snap-center shrink-0"
+      />
+      
+      {slide.galleryImages?.map((img, i) => (
+        <img
+          key={i}
+          src={img}
+          alt={`${work.title} - gallery ${i + 1}`}
+          className="h-[80vh] md:h-[85vh] object-contain snap-center shrink-0"
+        />
+      ))}
+    </div>
+  </div>
+)}
+  
 
         {slide.type === 'video' && (
           <div className="relative z-0 pointer-events-auto max-w-full max-h-full">
@@ -65,17 +81,17 @@ export default function Carousel({ work, onClose }: CarouselProps) {
         )}
 
        {slide.type === 'mixed' && (
-  <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-center justify-center max-w-5xl pointer-events-auto h-full">
+  <div className="flex flex-col md:flex-row gap-12 md:gap-16 lg:gap-20 items-center max-w-5xl justify-center pointer-events-auto h-full">
     {slide.imageUrl && (
       <div className="shrink-0">
         <img
           src={slide.imageUrl}
           alt={`${work.title} - slide ${currentSlide + 1}`}
-          className="max-w-full md:max-w-[50%] lg:max-w-[60%] max-h-[80vh] object-contain"
+          className="max-w-full md:max-w-md lg:max-w-lg max-h-[80vh] object-contain"
         />
       </div>
     )}
-    <div className="text-white/80 leading-relaxed whitespace-pre-wrap text-sm md:text-base lg:text-lg flex-1 flex flex-col justify-center">
+    <div className="text-white/80 leading-relaxed whitespace-pre-wrap text-sm md:text-base lg:text-lg max-w-lg lg:max-w-xl flex flex-col justify-center">
       {slide.title && (
         <div className="text-2xl md:text-3xl lg:text-4xl mb-4">
           {slide.title}
@@ -95,9 +111,9 @@ export default function Carousel({ work, onClose }: CarouselProps) {
       </div>
 
       {/* Top-left: Higher Forces */}
-      <div className="fixed top-2 left-6 z-120 pointer-events-auto text-white text-sm md:text-base lg:text-lg">
-        HIGHER FORCES
-      </div>
+    <a href="/" className="fixed top-2 left-6 z-120 pointer-events-auto text-white text-sm md:text-base lg:text-lg">
+  HIGHER FORCES
+</a>
 
       {/* Controls - top right */}
       <div className="fixed top-2 right-6 z-120 pointer-events-auto flex items-center gap-5">

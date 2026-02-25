@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { useState } from 'react';
 import Carousel from '@/components/Carousel';
-import { catalogData, getWorkByTitle } from '@/data/catalog';
+import { getWorkByTitle } from '@/data/catalog';
 import { Work } from '@/types/catalog';
 
 export default function Home() {
@@ -13,7 +13,8 @@ export default function Home() {
     "100% Intuition",
     "Art Effect Pill",
     "Bad Actors",
-    "Banker as an art object",
+    "Bai Ueit",
+    "Banker as an Art Object",
     "Brand Paralysis",
     "Bullet Proof Karma",
     "Calculated",
@@ -22,16 +23,15 @@ export default function Home() {
     "Climate Exchange",
     "Comfortable Painting",
     "Concept Roulette",
-    "Continuum",
     "Coordinates of Utopia",
     "Cosmic Idiot",
-    "Cosmetic buddhist",
+    "Cosmetic Buddhist",
     "Curators Glasses",
     "Delayed",
     "Digital Coffin",
     "Erotics of Vegetables",
     "Estetica Protesica",
-    "Euphoric healer",
+    "Euphoric Healer",
     "Exit Strategy",
     "Experts of Truth",
     "Facebook Cemetery",
@@ -41,20 +41,16 @@ export default function Home() {
     "Full Potential",
     "Fully Booked",
     "Funeral Advisors",
-    "Game of world : Unsuccessful video game",
-    "Game Over",
     "Global Silence",
     "Grand Consultants",
     "Great Elite International",
     "Heavy Lifter",
-    "Higher Forces",
     "Horizontal Skyscrapers",
     "Horron",
     "Illusion Carrier Service",
     "Important Meeting",
     "Investors Casting",
     "Lost Pseudo Intellectual",
-    "Luxurious Anarchy",
     "LXC",
     "Mad Hipster",
     "Masterpiece",
@@ -62,12 +58,11 @@ export default function Home() {
     "Me Happy Now",
     "Monitoring Room",
     "Moving Emptiness",
-    "New conductor",
+    "New Conductor",
     "No Money No Honey",
     "No More Heroes, The Show Must Go On, Only The Brave",
     "No-Profit, Unsubscribe, Go Rural",
     "Non-Follower",
-    "Organised mind group",
     "Owners of Galactics",
     "Panic Professionals",
     "Post Hope Society",
@@ -78,7 +73,8 @@ export default function Home() {
     "Silence Ventures",
     "Something Went Terribly Wrong",
     "Spiritual Surveillance",
-    "Temporary identity",
+    "Techno Zombie",
+    "Temporary Identity",
     "The Calculated Poet",
     "The Coach of the Coach",
     "The Conference",
@@ -86,9 +82,7 @@ export default function Home() {
     "The Door to the Great Boringness",
     "The Fear is The Best",
     "The Priest of the Future",
-    "Techno Zombie",
-    "Thermo Frames",
-    "Transcendental machine",
+    "Transcendental Machine",
     "Travel Simulation Park",
     "UJN",
     "Un-Professional",
@@ -117,7 +111,10 @@ export default function Home() {
         <Carousel work={selectedWork} onClose={handleCloseCarousel} />
       )}
       
-      <div className="min-h-screen bg-zinc-900 relative flex flex-col">
+     <div className="min-h-screen bg-zinc-900 relative flex flex-col">
+  <div 
+  className="absolute inset-0 bg-[url('/bg_soft.jpg')] bg-no-repeat bg-center bg-cover opacity-[0.2] pointer-events-none" 
+/>
       {/* Darker film borders - top and bottom - fixed position */}
       <div className="fixed inset-0 pointer-events-none z-10">
         <div className="absolute top-0 left-0 right-0 h-32 bg-linear-to-b from-black to-transparent"></div>
