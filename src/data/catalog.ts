@@ -421,7 +421,10 @@ export const catalogData: Work[] = [
     slides: [
       { type: 'text',
         title: 'TRANSCENDENTAL MACHINE',
-        content: 'Photographic landscapes'
+        content: ''
+        },
+        { type: 'text',
+        content: 'Photiographic landscapes....'
         },
          {
         type: 'image',
