@@ -10,7 +10,7 @@ export const catalogData: Work[] = [
       {
         type: 'text',
         title: 'BAI UEIT',
-        content: '',
+        content:''
       },
     ]},
   {
@@ -21,7 +21,7 @@ export const catalogData: Work[] = [
       {
         type: 'text',
         title: 'CALCULATED',
-        content: 'This is a meditative and optical installation composed from cinematic frames, light installations, and prints.',
+        content: '',
       },
       {
         type: 'image',
@@ -97,7 +97,7 @@ export const catalogData: Work[] = [
       },
         {
         type: 'image',
-        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/calculated/5_calculated.jpeg',
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/calculated/calculated_eyes.jpeg',
       },
        {
         type: 'video',
@@ -105,7 +105,7 @@ export const catalogData: Work[] = [
       },
       {
         type: 'text',
-        content: 'Cinematic frames\n\nCalculated Light 10.00’\nVirtual Sunset 5.03’\nExcel fields 8.01’\nMoon I \nMoon II\nMoon III\n\nHallucinogenic Spreadsheets\nRegular 48 x 39cm\nZeros  50 x 60cm\nZeros  75.3 x 62.3cm\nZero, Dot  64.5 x 49cm\nZero Square  79 x 79cm\nIrregular  91.5 x 170cm'
+        content: 'This is a meditative and optical installation composed from cinematic frames, light installations, and prints. \n\nCinematic frames\n\nCalculated Light 10.00’\nVirtual Sunset 5.03’\nExcel fields 8.01’\nMoon I \nMoon II\nMoon III\n\nHallucinogenic Spreadsheets\nRegular 48 x 39cm\nZeros  50 x 60cm\nZeros  75.3 x 62.3cm\nZero, Dot  64.5 x 49cm\nZero Square  79 x 79cm\nIrregular  91.5 x 170cm'
       },
     ]
   },
@@ -178,8 +178,8 @@ export const catalogData: Work[] = [
         content: '',
       },
       {
-        type: 'text',
-        content: '',
+        type: 'image',
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/climate%20exchange/IMG_1767.png',
       },
       {
         type: 'text',
@@ -222,7 +222,7 @@ export const catalogData: Work[] = [
     slides: [
       { type: 'text',
         title: 'CURATORS GLASSES',
-        content: '200 photographic pieces, single installation'
+        content: ''
         },
         {
        type: 'image',
@@ -235,7 +235,7 @@ export const catalogData: Work[] = [
   'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Curators%20Glasses/CG7.001.png']
     },
         { type: 'mixed',
-        content: 'Color print on cotton paper.\nSize: 27 × 15.2 cm (10.6 × 6 in approx.)\n200 glasses pairs',
+        content: '200 photographic pieces, single installation. \n\nColor print on cotton paper.\nSize: 27 × 15.2 cm (10.6 × 6 in approx.)\n200 glasses pairs',
         imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Curators%20Glasses/CG.135.png'
         },
 
@@ -270,11 +270,15 @@ export const catalogData: Work[] = [
       {
         type: 'text',
         title: 'FINAL TOUR LEADER',
-        content: "Final Tour Leader is a phantasmagoric challenge, dedicated to processing presentness and re-articulating it. It's about the space between people, and a new genre of art experience, when the spectator becomes an ultimate movable art object, spectating the other spectator. "
+        content: ''
       },
       {
         type: 'image',
         content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Final%20Tour%20Leader/JCtext.png',
+      },
+      {
+        type: 'text',
+        content: "Final Tour Leader is a phantasmagoric challenge, dedicated to processing presentness and re-articulating it. It's about the space between people, and a new genre of art experience, when the spectator becomes an ultimate movable art object, spectating the other spectator. "
       },
       {
         type: 'image',
@@ -418,6 +422,34 @@ export const catalogData: Work[] = [
       { type: 'text',
         title: 'TRANSCENDENTAL MACHINE',
         content: 'Photographic landscapes'
+        },
+         {
+        type: 'image',
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0205%20Large.png',
+        galleryImages: ['https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0024%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0034%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0035%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0036%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0043%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0053%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0067%20copy%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0068%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0072%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0075%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0080%20copy%202%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0095%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0102%20copy%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0131%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0139%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0143%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0148%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0156%20Large.png',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0015%20Large.png'
+        ] 
+      },
+      { type: 'mixed',
+        content: 'Photographic prints, series of 86',
+        imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0046%20Large.png'
         },
       ]
       },
