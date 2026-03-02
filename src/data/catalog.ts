@@ -428,8 +428,8 @@ export const catalogData: Work[] = [
         },
          {
         type: 'image',
-        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0205%20Large.png',
-        galleryImages: ['https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0024%20Large.png',
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0015%20Large.png',
+        galleryImages: ['https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0205%20Large.png',
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0034%20Large.png',
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0035%20Large.png',
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0036%20Large.png',
@@ -447,7 +447,8 @@ export const catalogData: Work[] = [
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0143%20Large.png',
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0148%20Large.png',
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0156%20Large.png',
-          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0015%20Large.png'
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0024%20Large.png'
+          
         ] 
       },
       { type: 'mixed',
