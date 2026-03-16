@@ -424,7 +424,7 @@ export const catalogData: Work[] = [
         content: ''
         },
         { type: 'text',
-        content: 'Photiographic landscapes....'
+        content: 'The photographic lens operates as a machine of transcendence. Each frame opens onto reality before its division into recognizable forms — the continuum from which all things emerge and to which all things return. Light and color move as primary forces through a cosmos in perpetual becoming, tracing patterns that precede matter and precede thought. The landscape loses its edges. The familiar world remains, held within the flux, recognizable at a frequency below the name. Observer and observed share the same ground. Consciousness precedes matter, the field precedes the particle, the whole precedes its parts. These images register the condition from which the world continuously arises.'
         },
          {
         type: 'image',
@@ -452,7 +452,7 @@ export const catalogData: Work[] = [
         ] 
       },
       { type: 'mixed',
-        content: 'Photographic prints, series of 86',
+        content: 'Photographic prints, series of 83',
         imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0046%20Large.png'
         },
       ]
