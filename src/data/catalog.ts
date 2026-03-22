@@ -10,7 +10,7 @@ export const catalogData: Work[] = [
       {
         type: 'text',
         title: 'BAI UEIT',
-        content:'\nArtwork by Weight\nCinematic Installation'
+        content:''
       },
 
      {
@@ -37,7 +37,7 @@ export const catalogData: Work[] = [
        {
         type: 'mixed',
         title: 'EXHIBITION',
-        content:'\nBAI UEIT is available for institutional exhibition in multiple configurations — from the single-channel cinematic installation to the full live-feed installation requiring screens and a network connection. It functions equally within commercial spaces and conventional gallery contexts.\n\nInstitutional proposals and collector enquiries are welcome.\n\nDubai Gold 24 Store,\n178 Via Principe Amedeo, Rome, Italy\n2018 — ongoing',
+        content:'\nArtwork by Weight\nCinematic Installation\n\nBAI UEIT is available for institutional exhibition in multiple configurations — from the single-channel cinematic installation to the full live-feed installation requiring screens and a network connection. It functions equally within commercial spaces and conventional gallery contexts.\n\nInstitutional proposals and collector enquiries are welcome.\n\nDubai Gold 24 Store,\n178 Via Principe Amedeo, Rome, Italy\n2018 — ongoing',
         imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/bai_ueit/dubai_gold.jpeg'
       },
     ]},
@@ -145,7 +145,7 @@ export const catalogData: Work[] = [
       {
         type: 'text',
         title: 'CALL CENTER',
-        content: '\nDistributed Application Installation',
+        content: '',
       },
        {
         type: 'text',
@@ -173,7 +173,7 @@ export const catalogData: Work[] = [
        
       {
         type: 'mixed',
-        content: "Visit [call-center.space](https://www.call-center.space), register and start calling. If accessing from Chrome or Safari browser you may also download the app and save it to your bar or dock, so you won't need to access every time from browser.",
+        content: "\nDistributed Application Installation\n\nVisit [call-center.space](https://www.call-center.space), register and start calling. If accessing from Chrome or Safari browser you may also download the app and save it to your bar or dock, so you won't need to access every time from browser.",
         imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/call%20center/call_center.png'
       },
     ]
