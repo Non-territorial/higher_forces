@@ -353,6 +353,17 @@ export const catalogData: Work[] = [
       },
     ]},
      {
+    id: 'levels-of-perception',
+    title: 'Levels of Perception',
+    available: true,
+    slides: [
+      {
+        type: 'text',
+        title: 'LEVELS OF PERCEPTION',
+        content: '',
+      },
+    ]},
+     {
     id: 'monitoring-room',
     title: 'Monitoring Room',
     available: true,
