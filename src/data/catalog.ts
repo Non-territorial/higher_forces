@@ -174,7 +174,7 @@ export const catalogData: Work[] = [
       {
         type: 'mixed',
         content: "\nDistributed Application Installation\n\nVisit [call-center.space](https://www.call-center.space), register and start calling. If accessing from Chrome or Safari browser you may also download the app and save it to your bar or dock, so you won't need to access every time from browser.",
-        imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/call%20center/call_center.png'
+        imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/call%20center/cc.png'
       },
     ]
   },
