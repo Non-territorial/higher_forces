@@ -16,28 +16,28 @@ export const catalogData: Work[] = [
      {
         type: 'text',
         title: 'THE OBSCENITY OF THE ACCURATE',
-        content:'The art market has a price for everything. BAI UEIT applies these prices honestly. This is the first obscenity. Honesty, in a system that has survived entirely on mystification, is the cruelest form of exposure — not because it reveals something hidden, but because it reveals that there was never anything to hide.\n\nThe obscenity is not in what is shown but in the fact that there is nothing to see.\n\nHundreds, thousands of contemporary artists — the full century of them, the twentieth and the twenty-first, the certified and the forgotten, the deceased and the still actively producing.\n\nTheir work valued by weight. Per gram. Per kilogram. Per tonne. The data streams without pause, without comment, without irony. This last point is essential. The irony is structurally embedded.\n\nTo add irony to it would be to betray the secret rule. The system has already done this work.\n\nThe numbers are shifting as on a trading floor, as on a gold exchange, as in an airport. The departure board of art history, all flights perpetually delayed with all destinations being equivalent.'
+        content:'\nThe art market has a price for everything. BAI UEIT applies these prices honestly. This is the first obscenity. Honesty, in a system that has survived entirely on mystification, is the cruelest form of exposure — not because it reveals something hidden, but because it reveals that there was never anything to hide.\n\nThe obscenity is not in what is shown but in the fact that there is nothing to see.\n\nHundreds, thousands of contemporary artists — the full century of them, the twentieth and the twenty-first, the certified and the forgotten, the deceased and the still actively producing.\n\nTheir work valued by weight. Per gram. Per kilogram. Per tonne. The data streams without pause, without comment, without irony. This last point is essential. The irony is structurally embedded.\n\nTo add irony to it would be to betray the secret rule. The system has already done this work.\n\nThe numbers are shifting as on a trading floor, as on a gold exchange, as in an airport. The departure board of art history, all flights perpetually delayed with all destinations being equivalent.'
       },
 
       {
         type: 'text',
         title: 'THE DISPLAY',
-        content:'A large electronic board. The visual language is instantly legible: commodity markets, metal exchanges, the infrastructure through which serious things become numbers and numbers become real.\n\nArtist names, unit prices, weight categories. The categories shift. Some artists are priced by the gram like precious metals. Some by the kilogram. Some by the tonne.\n\nThe unit of measurement is not incidental. It is the entire statement.\n\nCattelan by the gram. Hirst by the gram, declining, rising, declining again — the oscillation that passes for meaning in financial systems. A lesser-known artist by the gram at four euros. Every artist on the list submitted to the same question, the only question the market actually poses: how much of you, by weight, can I purchase?\n\nThe obscenity is not in the content. It is in the accuracy.\n\nBAI UEIT refuses the consolation of depth. There is only the first question, looping, updating, real-time, referring only to itself. '
+        content:'\nA large electronic board. The visual language is instantly legible: commodity markets, metal exchanges, the infrastructure through which serious things become numbers and numbers become real.\n\nArtist names, unit prices, weight categories. The categories shift. Some artists are priced by the gram like precious metals. Some by the kilogram. Some by the tonne.\n\nThe unit of measurement is not incidental. It is the entire statement.\n\nCattelan by the gram. Hirst by the gram, declining, rising, declining again — the oscillation that passes for meaning in financial systems. A lesser-known artist by the gram at four euros. Every artist on the list submitted to the same question, the only question the market actually poses: how much of you, by weight, can I purchase?\n\nThe obscenity is not in the content. It is in the accuracy.\n\nBAI UEIT refuses the consolation of depth. There is only the first question, looping, updating, real-time, referring only to itself. '
       },
        {
         type: 'text',
         title: 'THE ORIGINAL SITUATION: DUBAI GOLD 24, ROME',
-        content:'The work was first conceived and realised within a functioning gold shop. The salesman remained. The gold remained in its small packaging cases. Only the price boards changed — or rather, did not change in kind, only in content. Where the gold prices scrolled, artist names scroll now. The infrastructure is identical. The merchandise has been substituted. This substitution is the argument.\n\nBy placing the art market inside this infrastructure, BAI UEIT does not critique the art market. It reveals that no critique is necessary. There is nothing behind that curtain. This system is so total in its self-referentiality that the only available critique to take is to enact the hyper conformism of its own logic. The parody is not imposed from outside. It is the faithful mirror of what the system already is.\n\nDubai Gold 24 becomes an art fair for couple of days. The most tradable art, officially and illegally on offer. The art market has always operated in exactly this register: official and illicit, legitimate and predatory, transparent in its mechanisms, opaque in its values.\n\nBAI UEIT simply stages this openly, which is to say ob-scenely. Everything which loses its scene becomes, for that very reason, obscene.\n\nRed lighting, mini projections, sound. A maximum of five to eight visitors at a time. The art fair scaled to its actual human conditions: the private view, the tight room, the few who already know each other, the transaction that precedes the artwork.'
+        content:'\nThe work was first conceived and realised within a functioning gold shop. The salesman remained. The gold remained in its small packaging cases. Only the price boards changed — or rather, did not change in kind, only in content. Where the gold prices scrolled, artist names scroll now. The infrastructure is identical. The merchandise has been substituted. This substitution is the argument.\n\nBy placing the art market inside this infrastructure, BAI UEIT does not critique the art market. It reveals that no critique is necessary. There is nothing behind that curtain. This system is so total in its self-referentiality that the only available critique to take is to enact the hyper conformism of its own logic. The parody is not imposed from outside. It is the faithful mirror of what the system already is.\n\nDubai Gold 24 becomes an art fair for couple of days. The most tradable art, officially and illegally on offer. The art market has always operated in exactly this register: official and illicit, legitimate and predatory, transparent in its mechanisms, opaque in its values.\n\nBAI UEIT simply stages this openly, which is to say ob-scenely. Everything which loses its scene becomes, for that very reason, obscene.\n\nRed lighting, mini projections, sound. A maximum of five to eight visitors at a time. The art fair scaled to its actual human conditions: the private view, the tight room, the few who already know each other, the transaction that precedes the artwork.'
       },
        {
         type: 'text',
         title: 'THE REPLICABLE PREVIEW LOUNGE',
-        content:'Through cinematic documentation of the Dubai Gold 24 installation, BAI UEIT generates a distributed autonomous form: the Replicable Preview Lounge. The cinematic installation becomes the work. The salesman, the display, the red light, the visitors faces — documented, restructured, distributed.\n\nNo shipping. No customs. No climate control. No insurance.\n\nThe display runs.'
+        content:'\nThrough cinematic documentation of the Dubai Gold 24 installation, BAI UEIT generates a distributed autonomous form: the Replicable Preview Lounge. The cinematic installation becomes the work. The salesman, the display, the red light, the visitors faces — documented, restructured, distributed.\n\nNo shipping. No customs. No climate control. No insurance.\n\nThe display runs.'
       },
        {
         type: 'mixed',
         title: 'EXHIBITION',
-        content:'BAI UEIT is available for institutional exhibition in multiple configurations — from the single-channel cinematic installation to the full live-feed installation requiring screens and a network connection. It functions equally within commercial spaces and conventional gallery contexts.\n\nInstitutional proposals and collector enquiries are welcome.\n\nHigher Forces\ninfo@higherforces.art\n\nDubai Gold 24 Store,\n178 Via Principe Amedeo, Rome, Italy\n2018 — ongoing',
+        content:'\nBAI UEIT is available for institutional exhibition in multiple configurations — from the single-channel cinematic installation to the full live-feed installation requiring screens and a network connection. It functions equally within commercial spaces and conventional gallery contexts.\n\nInstitutional proposals and collector enquiries are welcome.\n\nDubai Gold 24 Store,\n178 Via Principe Amedeo, Rome, Italy\n2018 — ongoing',
         imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/bai_ueit/dubai_gold.jpeg'
       },
     ]},
@@ -145,48 +145,32 @@ export const catalogData: Work[] = [
       {
         type: 'text',
         title: 'CALL CENTER',
-        content: 'Mobile phone application. This piece is a distributed artwork that strives on serendipity and unexpected encounters to bring about unforeseen experiences.',
-      },
-      {
-        type: 'image',
-        content: 'your-mux-playback-id-here' 
+        content: '\nDistributed Application Installation',
       },
        {
         type: 'text',
-        content: 'You dial the number of someone you know yet somebody else answers. Perhaps you called the wrong number, you think. For a moment, it crosses your mind that maybe you are talking with the right person, but you soon realise that you have a cross connection. You also get the impression that this person was awaiting a call. Maybe the person on the other side noticed that you just wanted to talk. Neither of you hangs up.'
+        content: 'You call and somebody answers. For a moment, you believe you have reached the wrong person. Then, more disturbing, the possibility crosses your mind that you have reached exactly the right one. This is the cross-connection, the accidental encounter.\n\nNeither of you hangs up.\n\nThis is the starting point. Not connection — connection is the premise of every telecommunications app, every social network, every apparatus of managed sociality.\n\nThe starting point is the randomness, the glitch, the serendipity, the moment the system routes you toward the unfamiliar, without warning.'
       },
       {
         type: 'image',
-        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/calculated/2_calculated.jpeg'
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/call%20center/phone.jpeg'
       },
        {
         type: 'text',
-        content: 'In the website for a communications platform-as-a-service provider it reads that "sometimes, phone menus help you get to the right agent". Sometimes, however, they do not. Fortunately, there is “Call Center” to take advantage of this. This piece applies an Automatic Distribution System, often called call routing, combined with an IVR (Interactive Voice Response) menu for the interface to bring about unexpected encounters, enriching experiences or simply weird conversations.'
+        title: "THE 'CORRECT ROUTING'",
+        content: '\nIn the documentation for a communications platform-as-a-service provider, it reads: sometimes, phone menus help you get to the right agent. Sometimes, however, they do not.\n\nThe entire architecture of modern communication — the call routing algorithm, the Automatic Distribution System — exists to eliminate friction, to accelerate you toward the pre-selected destination, to ensure that every call reaches its intended recipient with maximum efficiency and minimum deviation.\n\nWhat the system produces, in achieving this, is the perfect simulation of communication. The channel functions. The connection is established. Speech occurs. And yet nothing is exchanged that was not already anticipated before the call was placed. The response was already coded into the question. The message returns to the sender in the shape of confirmation.'
       },
       {
         type: 'image',
-        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/calculated/2_calculated.jpeg'
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/call%20center/open_form.jpeg'
       },
+     
        {
         type: 'text',
-        content: 'After dialling a freephone number, you will be presented with a few options. If it is your first time calling this number, you will be invited to answer a few personal questions using the phone menu. As soon as you go through them all, you will be able to put a certain amount of calls. You will also become an agent, meaning that you agree to have people calling you sporadically. Whom you will be talking with when putting a call is determined by an algorithm. It could be someone close to you or someone miles away. They may be speaking in your native language or in some other language you do not even know how to spell. It is not necessarily random whom the system attempts to connect you with, even if it may seem so to parties on both sides of the line.'
+        title: 'THE OPEN FORM',
+        content: '\nCALL CENTER arises within a long-term inquiry into diffuse forms of expression — into what happens to art when it refuses to be contained within a legible object, a fixed duration, a stable spectatorial relation.\n\nThe call goes somewhere. Where it goes is determined by a calculation you cannot fully see, toward a person you did not select, in conditions neither of you prepared for.\n\nThe IVR (Interactive Voice Response) generates the infrastructure that produces different encounters each time, restrained by unchanging rules that generate inexhaustible variations.\n\nThe form is open not because it is undefined but because its defining constraints are precisely calibrated to prevent repetition. The algorithm does not guarantee surprise, but makes surprise structurally probable.\n\nEvery call is an instantiation. The work is the condition.\n\nWhat circulates is a situation — the charged space between two people who did not choose each other, held open by the fact that neither has yet hung up.\n\nThe question is what happens next.\n\nThe system does not answer this. That is the point.'
       },
-      {
-        type: 'image',
-        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/calculated/2_calculated.jpeg'
-      },
-       {
-        type: 'text',
-        content: 'Finally, as an incentive to everyone involved you will only be able to put as many calls as those that you do not refuse. "Call Center" is as much about connecting with other people as it is about disconnecting from what is familiar. This piece is also about personal growth, which sometimes comes from knowing diﬀerent people in unexpected circumstances but can usually be traced back to extraordinary experiences.'
-      },
-      {
-        type: 'image',
-        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/calculated/2_calculated.jpeg'
-      },
-       {
-        type: 'text',
-        content: '"Call Center" arises within the context of a long-term inquiry on diﬀuse forms of expression and alternatives to well-established forms of spectatorship. It tries to answer these questions: can we harness and articulate what would be otherwise a fleeting moment and how can we do it in such a way as to make it a more persistent and reproducible experience without closing it within a contained form so that it is diﬀerent every time?'
-      },
+       
       {
         type: 'mixed',
         content: "Visit [call-center.space](https://www.call-center.space), register and start calling. If accessing from Chrome or Safari browser you may also download the app and save it to your bar or dock, so you won't need to access every time from browser.",
@@ -251,6 +235,9 @@ export const catalogData: Work[] = [
       { type: 'text',
         title: 'CURATORS GLASSES',
         content: ''
+        },
+        { type: 'text',
+          content: "Each pair is a proposition. A lens is never neutral, it is already an argument about what the world is made of, what deserves to be seen, how much reality can be compressed into a circle before it becomes something else entirely. The curator does not merely select. The curator looks through something, and that something shapes everything that follows.\n\nWhat the lens does to the world is not distort it but concentrate it. The glasses are a threshold object, sitting at the border between the face and the world. To wear them is to commit to a particular ontology. To swap them is to change worlds without moving.\n\nClothes do not make the man. But the lens makes the visible, and the visible, over time, makes the man who keeps looking through it. In a culture that has confused appearance with epistemology, the question is no longer what you wear but what you see through. The suit signals. The glasses determine. One is social theatre; the other is cognitive architecture. A man in a plain coat who looks through the right lens sees further than the impeccably dressed man looking with bare eyes at what everyone else has already agreed to call real.\n\nThe curator's glasses are not ornamental. They are a verdict dressed as a method. And the artwork, once placed, has no choice but to confess to whatever the lens was already prepared to find."
         },
         {
        type: 'image',
@@ -452,7 +439,7 @@ export const catalogData: Work[] = [
         content: ''
         },
         { type: 'text',
-        content: 'The photographic lens operates as a machine of transcendence. Each frame opens onto reality before its division into recognizable forms — the continuum from which all things emerge and to which all things return. Light and color move as primary forces through a cosmos in perpetual becoming, tracing patterns that precede matter and precede thought. The familiar world remains, held within the flux, recognizable at a frequency below the name. Observer and observed share the same ground. Consciousness precedes matter, the field precedes the particle, the whole precedes its parts. These images register the condition from which the world continuously arises.'
+        content: 'The photographic lens operates as a machine of transcendence. Each frame opens onto reality before its division into recognizable forms — the continuum from which all things emerge and to which all things return. Light and color move as primary forces through a cosmos in perpetual becoming, tracing patterns that precede matter and precede thought.\n\nThe familiar world remains, held within the flux, recognizable at a frequency below the name. Observer and observed share the same ground. Consciousness precedes matter, the field precedes the particle, the whole precedes its parts.\n\nThese images register the condition from which the world continuously arises.'
         },
          {
         type: 'image',

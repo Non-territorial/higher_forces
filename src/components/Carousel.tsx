@@ -35,10 +35,10 @@ export default function Carousel({ work, onClose }: CarouselProps) {
 <div className="max-w-4xl pointer-events-auto">
   {slide.type === 'text' && (
   <div
-    className={`text-white/80 leading-relaxed whitespace-pre-wrap text-sm md:text-base lg:text-lg`}
+    className={`text-white/70 leading-relaxed whitespace-pre-wrap text-sm md:text-base lg:text-base`} style={{ fontFamily: 'iAWriterDuoS, monospace' }}
   >
     {slide.title && (
-      <div className="text-white/80 text-2xl md:text-3xl lg:text-4xl mb-2">
+      <div className="text-white/70 text-xl md:text-2xl lg:text-3xl mb-2" style={{ fontFamily: 'isocpeur' }}>
         {slide.title}
       </div>
     )}
@@ -91,13 +91,13 @@ export default function Carousel({ work, onClose }: CarouselProps) {
         />
       </div>
     )}
-    <div className="text-white/80 leading-relaxed whitespace-pre-wrap text-sm md:text-base lg:text-lg max-w-lg lg:max-w-xl flex flex-col justify-center">
+    <div className="text-white/70 leading-relaxed whitespace-pre-wrap text-sm md:text-base lg:text-base max-w-lg lg:max-w-xl flex flex-col justify-center">
       {slide.title && (
-        <div className="text-2xl md:text-3xl lg:text-4xl mb-4">
+        <div className="text-xl md:text-2xl lg:text-3xl mb-4" style={{ fontFamily: 'isocpeur' }}>
           {slide.title}
         </div>
       )}
-    <div
+    <div style={{ fontFamily: 'iAWriterDuoS, monospace' }}
   dangerouslySetInnerHTML={{
     __html: slide.content
       .replace(/\n/g, '<br />')
@@ -127,7 +127,7 @@ export default function Carousel({ work, onClose }: CarouselProps) {
         <button
           onClick={goToPrevious}
           disabled={currentSlide === 0}
-          className="text-white/80 text-2xl md:text-3xl hover:opacity-70 transition-opacity disabled:opacity-30 disabled:cursor-not-allowed"
+          className="text-white/70 text-2xl md:text-3xl hover:opacity-70 transition-opacity disabled:opacity-30 disabled:cursor-not-allowed"
           aria-label="Previous slide"
         >
           ←
@@ -137,7 +137,7 @@ export default function Carousel({ work, onClose }: CarouselProps) {
         <button
           onClick={goToNext}
           disabled={currentSlide === work.slides.length - 1}
-          className="text-white/80 text-2xl md:text-3xl hover:opacity-70 transition-opacity disabled:opacity-30 disabled:cursor-not-allowed"
+          className="text-white/70 text-2xl md:text-3xl hover:opacity-70 transition-opacity disabled:opacity-30 disabled:cursor-not-allowed"
           aria-label="Next slide"
         >
           →
@@ -146,7 +146,7 @@ export default function Carousel({ work, onClose }: CarouselProps) {
         {/* Close button */}
         <button
           onClick={onClose}
-          className="text-white/80 text-2xl md:text-3xl hover:opacity-70 transition-opacity ml-2"
+          className="text-white/70 text-2xl md:text-3xl hover:opacity-70 transition-opacity ml-2"
           aria-label="Close carousel"
         >
           ✕
