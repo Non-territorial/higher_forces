@@ -445,9 +445,10 @@ export const catalogData: Work[] = [
     title: 'Something Went Terribly Wrong',
     available: true,
     slides: [
-      { type: 'mixed',
+      { type: 'text',
+        title: 'SOMETHING WENT TERRIBLY WRONG',
         content: '',
-        imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/SWTW/swtw.png'
+        
       }
     ]},
      {
