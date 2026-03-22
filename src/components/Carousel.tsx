@@ -97,12 +97,18 @@ export default function Carousel({ work, onClose }: CarouselProps) {
           {slide.title}
         </div>
       )}
-      <div
+    <div
   dangerouslySetInnerHTML={{
-    __html: slide.content.replace(
-      /\[([^\]]+)\]\(([^)]+)\)/g,
-      '<a href="$2" target="_blank" rel="noopener noreferrer" class="underline hover:opacity-70">$1</a>'
-    )
+    __html: slide.content
+      .replace(/\n/g, '<br />')
+      .replace(
+        /\[([^\]]+)\]\(([^)]+)\)/g,
+        '<a href="$2" target="_blank" rel="noopener noreferrer" class="underline hover:opacity-70">$1</a>'
+      )
+      .replace(
+        /([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})/g,
+        '<a href="mailto:$1" class="underline hover:opacity-70">$1</a>'
+      )
   }}
 />
     </div>
