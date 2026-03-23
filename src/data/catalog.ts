@@ -171,11 +171,11 @@ export const catalogData: Work[] = [
         content: '\nCALL CENTER arises within a long-term inquiry into diffuse forms of expression — into what happens to art when it refuses to be contained within a legible object, a fixed duration, a stable spectatorial relation.\n\nThe call goes somewhere. Where it goes is determined by a calculation you cannot fully see, toward a person you did not select, in conditions neither of you prepared for.\n\nThe IVR (Interactive Voice Response) generates the infrastructure that produces different encounters each time, restrained by unchanging rules that generate inexhaustible variations.\n\nThe form is open not because it is undefined but because its defining constraints are precisely calibrated to prevent repetition. The algorithm does not guarantee surprise, but makes surprise structurally probable.\n\nEvery call is an instantiation. The work is the condition.\n\nWhat circulates is a situation — the charged space between two people who did not choose each other, held open by the fact that neither has yet hung up.\n\nThe question is what happens next.\n\nThe system does not answer this. That is the point.'
       },
        
-      {
-        type: 'mixed',
-        content: "\nDistributed Application Installation\n\nVisit [call-center.space](https://www.call-center.space), register and start calling. If accessing from Chrome or Safari browser you may also download the app and save it to your bar or dock, so you won't need to access every time from browser.",
-        imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/call%20center/cc.png'
-      },
+    {
+  type: 'mixed',
+  content: "\nDistributed Application Installation\n\nVisit [call-center.space](https://www.call-center.space). Registration requires a name and phone number only. No data is transmitted to third parties. This is a closed system built exclusively for the artwork.\n\n**INSTALL**\n\n**iPhone/iPad** — Safari → Share → Add to Home Screen.\n\n**Android** — Chrome → Menu → Add to Home Screen.\n\n**Mac** — Safari → File/Share → Add to Dock.\n\n**Windows/Linux** — Chrome → install icon (↓) in address bar.",
+  imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/call%20center/cc.png'
+},
     ]
   },
 
