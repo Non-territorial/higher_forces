@@ -195,35 +195,58 @@ export const catalogData: Work[] = [
       },
       {
         type: 'text',
-        content: '',
+        content: "An audio-visual installation represents its Title, namely the exchange of ‘Cosmic Assets', where, through numerical hallucinations, the human desire to monetize the cosmos.\n\nClimate Exchange, 2021. 6-channel video installation, projected on prints. Variable duration, non-repetitive generative compositions. Piazza Colonna, Rome, May 21–27, 2021. Presented by Higher Forces.",
+      },
+      {
+        type: 'image',
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/climate%20exchange/001.jpeg',
+        galleryImages: ['https://utj34qt1qat6euaj.public.blob.vercel-storage.com/climate%20exchange/002.jpeg',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/climate%20exchange/005.jpeg',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/climate%20exchange/0F1BA527-F1E9-4311-9B7D-90012C69F3F6_1_105_c.jpeg',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/climate%20exchange/012%202.jpeg',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/climate%20exchange/IMG_3340.jpeg',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/climate%20exchange/IMG_3353.jpeg',
+        ]
       },
       {
         type: 'text',
-        content: '',
+        title: 'SYNOPSIS',
+        content: 'In the continuous propaganda the fear of nature, backed by science, is distributed as a new state of mind, a new frequency of life, where new products, ideologies, belief systems are being introduced to us. Reality is turned into a hallucination of the language. But it is language that dies, not the Planet. The language is getting old, becoming a nihilistic instrument of destruction, and the overdose of it becomes dangerous to the human.\n\nClimate Exchange is the transmission of a specific insight, orientation, and mood. It is composed of elements, deriving from both the natural and the artificial world.\n\nThe exhibition approaches the issue of climate from different angle. For peculiar reasons, this dramatic problem seems to be treated as something extremely collateral.\n\nHuman Life today is purely transactional. The most important are numbers; everything is quantified, even the fundamental pure qualitative aspects of Life, like human relations as such. This is the Exchange of Climate, the trading of Life and Nature, as humans give up to machines. This prison has grown around ourselves, and we arrived at the point where the thing we desire most is an abstract thing as money: numbers or even just the idea of numbers.',
+      },
+      {
+        type: 'image',
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/climate%20exchange/Rome%20Shot%2018%202.jpeg',
+        galleryImages: ['https://utj34qt1qat6euaj.public.blob.vercel-storage.com/climate%20exchange/011.jpeg',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/climate%20exchange/008.jpeg',
+          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/climate%20exchange/003.JPG'
+        ]
       },
       {
         type: 'text',
-        content: '',
+        title: 'SETTINGS',
+        content: 'An exhibition in Pz.Colonna, Rome, Italy, 21-27 May, 2021\n\nThe first version of the Climate Exchange exhibition has been realized during the pandemic time and extreme social conditions in the city of Rome, the installation inhabited eleven ex-luxury store windows facing the entrance of the Italian parliament.',
+      },
+      {
+        type: 'video',
+        content: 'gjIlKZFd6y00M3zPusx1qx3cXJwzWt2U02y579fzKKJw8',
       },
       {
         type: 'text',
-        content: '',
+        content: 'Exhibition materials consist of 6 channel video installation, projected on prints. All channels have no fixed length, as the installation is created with non-repetitive compositions. Each frame has its uniqueness at the time of experience.\n\nThe eleven prints have been mounted in the storefront windows, and during the daytime, through the glass reflecting the street life operating as mirrors. In the night-time, when light conditions are low, the cinematic frames have begun to work as an open-ended collage, generating a triple-layered view evolving from the print under the glass, the projection on it, and the reflections of reality through the glass, melting into unpredictable compositions. ',
+      },
+       {
+        type: 'video',
+        content: 'X3J7JBEKt72RmvvjjtLq6QWv8yartOQtFpFwDF3xj9w',
       },
       {
         type: 'text',
-        content: '',
+        content: 'Those compositions are cinematic fragments of the exhibition.',
       },
+      
+      
       {
-        type: 'text',
-        content: '',
-      },
-      {
-        type: 'text',
-        content: '',
-      },
-      {
-        type: 'text',
-        content: '',
+        type: 'video',
+        content: '13PYCaIl100MeLeKmYz2Ub1UI00ek7gV0282I00JTj3bvSU',
       },
     ]},
  
