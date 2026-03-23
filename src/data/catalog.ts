@@ -384,6 +384,78 @@ export const catalogData: Work[] = [
         title: 'MOVING EMPTINESS',
         content: '',
       },
+     
+      {
+        type: 'text',
+        title: 'APPROACH',
+        content: '\nIn order to approach an understanding of Moving Emptiness, the work must not be understood as an object but as a multi-layered playground.\n\nThe work began in 2008 as a film that was never made. Or rather, a film that refused completion, that transformed — over years, through accumulated material — into something that could not be contained by a single form. What remained was not failure but transmutation. The film became an exhibition. The screenplay became a field of fragments. The protagonist became the ‘special agent’.',
+      },
+      {
+        type: 'image',
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Moving%20Emptiness/_racing_track_01_original.jpg',
+      },
+      {
+        type: 'text',
+        title: 'THE CENTRAL OBJECT',
+        content: "\nAt the core of Moving Emptiness is a single object, the racing track, rendered as a three-dimensional sculpture. This object is the work. Everything else is around it.\n\nIt reads simultaneously as miniaturized toy, architectural model, topographic artefact, spine, chromosome. Its engineering precision, the exact replication of the circuit's geometry — sits somewhere between technical drawing and jewellery.\n\nThe second form of the object presents the track in component parts: an exploded view, each section isolated, floating in darkness. It functions like a technical manual for something that leads nowhere. Instructions for a circuit with no exit.\n\nMonte Carlo isn't the setting of Moving Emptiness. Monte Carlo is its form. The circuit is the sculpture. The playground has been lifted off the earth, compressed, made holdable, and placed in void. What remains is the pure shape of enclosure.\n\nSpatial practices secretly structure the determining conditions of social life. Monte Carlo’s streets, its tunnels, its curves, its roads, its roundabout — these are not neutral infrastructures. They are instruments of psychical and ideological control made architectural: the physical organisation of a territory to maintain the behaviour of those inside it. The sculpture does not represent this. It lifts the infrastructure out of the ground, removes it from its geography, and holds it up. The object is the system, extracted.",
+      },
+        {
+        type: 'image',
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Moving%20Emptiness/_racing_track_04.jpg',
+      },
+      {
+        type: 'text',
+        title: 'THE TITLE',
+        content: '\nThe work was originally titled Monte Carlo. The name has been changed. Monte Carlo names the mirror. Moving Emptiness names what the mirror reflects, a universal condition. The track object carries both simultaneously. Physically it is Monte Carlo. The emptiness is not static. It moves, it has velocity, direction, the appearance of purpose. This is precisely what makes it difficult to see.',
+      },
+       {
+        type: 'video',
+        content: 'DRn00kfAcq5u01eKLhn01bVH5PwvFWewb78cnFpuy5c6Jk',
+      },
+      {
+        type: 'text',
+        title: 'THE PILOT',
+        content: "\n'like being in a pilot's seat'\n\nThe pilot speeds up throughout the racing track of Monte Carlo.\n\nIn the beginning, the view comes from outside, inwards. The pilot is processing. Later, the view shifts from inwards back outwards. And that view becomes abstract. The shaking visions, and the turbulent views through the pilot's helmet — speed, slowing down, speeding up, getting into dark tunnels, coming out of them, entering blinding sun, going into darkness again.\n\nRacing Track has no exits. Racing Track as a Carrier.\n\nThe composition of the work unfolds differently every time it is perceived. There is a point in any system of speed where agency is surrendered — the moment the body enters the current and is carried. In most experiences of velocity, that surrender is temporary: it has a beginning, a duration, and an end from which one recovers and returns. The Racing Track eliminates the return.\n\nThe pilot enters the circuit and does not exit. The surrender of agency is not an episode within the work — it is the work's entire duration. What Moving Emptiness holds, and holds without resolution, is precisely that interval: the pure time between entering the current and recovering from it, extended indefinitely.\n\nThe pilot is simultaneously the one racing and the one watching himself race — inside the circuit and, through the cinematic material, observing it from outside. Subject and object of the same motion. There is no position available outside the work from which to view it safely. The pilot is the index.",
+      },
+       {
+        type: 'video',
+        content: 'oT6JnP0151PRg1F02q02zV8bMcutAaEL3VIYcNdOEZDypE',
+      },
+      {
+        type: 'text',
+        title: 'THE INSTALLATION',
+        content: "\nThe full-scale installation is composed of two kinds of cinematic elements. The first is the movement mode, constant movement with a variety of degrees of speed, more subjective and abstract. A constantly moving image — sometimes just a black pulsing screen with appearing lights, sometimes the pilot's face shaking from speed. It evolves and continues. The pilot is racing in circles.\n\nThe second element is called fragments, those are static long shots of 'reality', of pure and real Monte Carlo. Long, still, and quiet shots. An eye of the observer.\n\nThese long shots work in contrast with the first element. This contrast transmits emotion and meaning, and the core idea of the work itself: by giving all the elements into the viewer's hands, or heads, and letting the viewer compose their own piece, their own Racing Track.",
+      },
+      {
+        type: 'video',
+        content: 'YC6WqzF7Q9gVv1zcbhRg01SvQ0100Y2N00ZMaUD3b2WNOxY',
+      },
+      {
+        type: 'text',
+        title: 'MANIFESTATIONS',
+        content: '\nThe work exists in a defined hierarchy of forms. The production and realization focus concentrates on two elements:\n\nI. The Racing Track Sculpture\n\nThe Racing Track as a physical three-dimensional object, realized in two scales: small and large. Both present the track in its full topology — the precise geometry of the circuit lifted from its geography and rendered as autonomous form.\n\nWall mounted or floor placed. The small scale makes the circuit holdable, intimate, an object of disturbing precision.\n\nThe large scale shifts the register — the circuit becomes architectural, something you stand beside, something that imposes. Both scales carry the same logic: the most exclusive racing track as a pure object, removed from its context, left as shape, the shape of enclosure.\n\nII. The Print Series\n\nThe Racing Track rendered as print, the circuit as image, as surface, as repeatable form. The series extends the sculptural flow into a different material, the precision of the object translated into the flatness. Each print is both a document and proposition. The circuit as diagram. The diagram as portrait.',
+      },
+        {
+        type: 'image',
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Moving%20Emptiness/balcony%20view.png',
+      },
+      {
+        type: 'text',
+        content: 'These two elements, sculptures and prints are the core of Moving Emptiness in its physical form. Around them, other elements unfold as the work develops, the sound compositions, the cinematic materials, the photographic series, the texts, the multilayered installation with its looping components.',
+      },
+      {
+        type: 'video',
+        content: '9EhzadRIJyh102xPk5lD7G4u76O8ZH2wSsi00rt9533UY',
+      },
+      {
+        type: 'text',
+        title: 'THE SPECIAL AGENT',
+        content: '\nA Special Agent arrives in Monte Carlo and discovers a massive artwork. What begins as light exploration turns into an in-depth investigation of all Monte Carlo. Extraordinary lifestyle, spectacular locations. Everyone in Monte Carlo has something to be proud of — they are radiant, beautiful people, fully enjoying their lives.\n\nThe Special Agent wants to know why and how.\n\nHe dives into the lush of Monte Carlo and the wild range of experiences it has to offer, while driving through this luxurious, yet bucolic seaside paradise. All Monte Carlo becomes a surrealistic territory with varying degrees of insanity and hallucinations.\n\nThe Special Agent is leaving. He has uncovered tremendous potential. Monte Carlo remains there — flashing under the sun as it always has, waiting for him to return.\n\nThe artist is the Special Agent. The artwork is the investigation and the investigation has been never completed.',
+      },
+       {
+        type: 'image',
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Moving%20Emptiness/_racing_track_series.png',
+      },
     ]},
      {
     id: 'real-estate-maniac',
