@@ -12,6 +12,9 @@ export const catalogData: Work[] = [
         title: 'BAI UEIT',
         content:''
       },
+      { type: 'html',
+        content: '/trailers/bai_ueit_trailer.html'
+      },
 
      {
         type: 'text',
@@ -590,7 +593,7 @@ export const catalogData: Work[] = [
         content: ''
         },
         { type: 'text',
-        content: 'The photographic lens operates as a machine of transcendence. Each frame opens onto reality before its division into recognizable forms — the continuum from which all things emerge and to which all things return. Light and color move as primary forces through a cosmos in perpetual becoming, tracing patterns that precede matter and precede thought.\n\nThe familiar world remains, held within the flux, recognizable at a frequency below the name. Observer and observed share the same ground. Consciousness precedes matter, the field precedes the particle, the whole precedes its parts.\n\nThese images register the condition from which the world continuously arises.'
+        content: 'The photographic lens opens an interval.\n\nEach frame locates a stratum where light and color have not yet been assigned to objects — where they move as conditions rather than attributes. The world held here has not yet settled into its names.\n\nThe familiar remains present inside the flux, identifiable at a register below nomination. Observer and observed share a deferral — the moment before the partition between them firms up.\n\nCategories arrive after the fact, applied to something already occurring without them.\n\nThese images register that prior occurrence.'
         },
          {
         type: 'image',

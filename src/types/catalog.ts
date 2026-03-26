@@ -1,4 +1,4 @@
-export type SlideType = 'text' | 'image' | 'video' | 'mixed';
+export type SlideType = 'text' | 'image' | 'video' | 'mixed' | 'html';
 
 export interface Slide {
   type: SlideType;

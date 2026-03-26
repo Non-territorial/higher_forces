@@ -83,6 +83,16 @@ export default function Carousel({ work, onClose }: CarouselProps) {
           </div>
         )}
 
+        {slide.type === 'html' && (
+  <div className="fixed inset-0 pointer-events-auto">
+    <iframe
+      src={slide.content}
+      className="w-full h-full border-0"
+      allow="autoplay"
+    />
+  </div>
+)}
+
        {slide.type === 'mixed' && (
   <div className="flex flex-col md:flex-row gap-12 md:gap-16 lg:gap-20 items-center max-w-5xl justify-center pointer-events-auto h-full">
     {slide.imageUrl && (
