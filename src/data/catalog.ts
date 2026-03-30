@@ -532,7 +532,7 @@ export const catalogData: Work[] = [
         content: 'The maniac of the title is not a diagnosis. It is a job description.'
       },
        { type: 'image',
-      content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rembowh.png'
+      content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rembo2%20Large.png'
     },
        {
         type: 'mixed',
