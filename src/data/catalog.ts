@@ -536,7 +536,7 @@ export const catalogData: Work[] = [
     },
        {
         type: 'mixed',
-        content: '5 Photographic collages\n\nPrints on paper',
+        content: '6 Photographic collages\n\nPrints on paper',
         imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/remrem2.jpeg'
       },
        
