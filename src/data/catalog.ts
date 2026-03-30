@@ -275,6 +275,9 @@ export const catalogData: Work[] = [
     'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Curators%20Glasses/CGPREVIEW.010.png',
   'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Curators%20Glasses/CG7.001.png']
     },
+    { type: 'image',
+      content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rembow.png'
+    },
         { type: 'mixed',
         content: '200 photographic pieces, single installation. \n\nColor print on cotton paper.\nSize: 27 × 15.2 cm (10.6 × 6 in approx.)',
         imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Curators%20Glasses/CG.135.png'
