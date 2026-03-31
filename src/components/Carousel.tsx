@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { Work } from '@/types/catalog';
 import MuxPlayer from '@mux/mux-player-react';
 
@@ -13,17 +13,28 @@ interface CarouselProps {
 export default function Carousel({ work, onClose }: CarouselProps) {
   const [currentSlide, setCurrentSlide] = useState(0);
   const [showGallery, setShowGallery] = useState(false);
+  const [activeGalleryIndex, setActiveGalleryIndex] = useState(0);
+  const galleryScrollRef = useRef<HTMLDivElement>(null);
 
   const goToNext = () => {
     if (currentSlide < work.slides.length - 1) {
       setCurrentSlide((prev) => prev + 1);
+      setActiveGalleryIndex(0);
     }
   };
 
   const goToPrevious = () => {
     if (currentSlide > 0) {
       setCurrentSlide((prev) => prev - 1);
+      setActiveGalleryIndex(0);
     }
+  };
+
+  const handleGalleryScroll = () => {
+    const el = galleryScrollRef.current;
+    if (!el) return;
+    const index = Math.round(el.scrollLeft / el.clientWidth);
+    setActiveGalleryIndex(index);
   };
 
   const slide = work.slides[currentSlide];
@@ -47,8 +58,13 @@ export default function Carousel({ work, onClose }: CarouselProps) {
   )}
 
        {slide.type === 'image' && (
-  <div className="w-full h-full pointer-events-auto">
-    <div className="flex overflow-x-auto snap-x snap-mandatory h-full">
+  <div className="w-full h-full pointer-events-auto flex flex-col">
+    <div
+      ref={galleryScrollRef}
+      onScroll={handleGalleryScroll}
+      className="flex overflow-x-auto snap-x snap-mandatory flex-1 [&::-webkit-scrollbar]:hidden"
+      style={{ scrollbarWidth: 'none', msOverflowStyle: 'none' }}
+    >
       <div className="w-screen h-full shrink-0 snap-center flex items-center justify-center">
         <img
           src={slide.content}
@@ -67,6 +83,22 @@ export default function Carousel({ work, onClose }: CarouselProps) {
         </div>
       ))}
     </div>
+
+    {/* Dot indicators — only shown when there are gallery images */}
+    {slide.galleryImages && slide.galleryImages.length > 0 && (
+      <div className="flex justify-center items-center gap-2 py-4 shrink-0">
+        {[slide.content, ...(slide.galleryImages ?? [])].map((_, i) => (
+          <div
+            key={i}
+            className={`rounded-full transition-all duration-300 ${
+              i === activeGalleryIndex
+                ? 'w-2 h-2 bg-white/80'
+                : 'w-1.5 h-1.5 bg-white/30'
+            }`}
+          />
+        ))}
+      </div>
+    )}
   </div>
 )}
   
