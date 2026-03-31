@@ -497,7 +497,7 @@ export const catalogData: Work[] = [
 
        {
         type: 'text',
-        content: 'Capital needs a face. Something that can be gold-plated, reproduced, placed at the center of a radiant field and mistaken, at sufficient distance, for the sun.\n\nThe sacred and the speculative have always shared a grammar. Both promise transformation of the ordinary into the transcendent. Both require an object of devotion sufficiently empty to receive the projections of the many. Both produce architecture disproportionate to human scale. The monstrance and the skyscraper are the same argument made in different centuries: here is the center, here is the light coming off it, here is where you kneel.',
+        content: 'Capital needs a face. Something that can be gold-plated, reproduced, placed at the center of a radiant field.',
       },
        {
         type: 'image',
@@ -506,7 +506,7 @@ export const catalogData: Work[] = [
       },
        {
         type: 'text',
-        content: 'What the work identifies is that the iconography was never metaphor. It was always the actual operating logic. The radiant disc, the axis mundi, the mandala of attendants arranged in perfect symmetry around a salvific core: these are not imposed onto the subject from outside.\n\nThey were already there, latent in every gold facade, every name in outsized letters above the entrance, every tie worn slightly too long, pointing downward like an arrow toward the earth it intends to acquire.',
+        content: 'The sacred and the speculative have always shared a grammar. Both promise transformation of the ordinary into the transcendent. Both require an object of devotion sufficiently open to receive the projections of many. Both produce architecture disproportionate to human scale. The monstrance and the skyscraper are the same argument made in different centuries: here is the center, here is the light coming off it.',
       },
        {
         type: 'image',
@@ -515,14 +515,14 @@ export const catalogData: Work[] = [
       },
        {
         type: 'text',
-        content: 'Hair as halo. Tower as reliquary. The atoll receiving the monument while it sinks.\n\nWhat rises from water that is already disappearing is not a building. It is a theology of the present tense — the conviction that ownership suspends time, that to put your name on something is to exempt it from the processes that unmake everything else.',
+        content: 'What the work notices is that the iconography was never metaphor. It was always the actual operating logic.',
       },
        {
         type: 'image',
         content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rematoll.png',
       },
       {type: 'text',
-        content: 'The reef disagrees. The rubble of the forensic circle disagrees. But disagreement, in this iconography, reads as heresy, and heresy only confirms the faith.'
+        content: 'Hair as halo. Tower as reliquary. The atoll receiving the monument while it sinks.\n\nWhat rises from water that is already disappearing is not simply a building. It is a conviction that ownership suspends time — that to put your name on something is to exempt it from the processes that unmake everything else. The reef has a different view. So does the rubble.'
       },
       { type: 'image',
         content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/remrem1.jpeg'
