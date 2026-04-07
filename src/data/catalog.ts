@@ -262,9 +262,6 @@ export const catalogData: Work[] = [
         title: 'CURATORS GLASSES',
         content: ''
         },
-        { type: 'text',
-          content: "A lens is never neutral. It is already an argument about what the world is made of, what deserves to be seen, how much reality can be compressed into a circle before it becomes something else entirely.\n\nThe curator does not merely select. The curator looks through something, and that something shapes everything that follows.\n\nWhat the lens does to the world is not distort it but concentrate it.\n\nGlasses are a threshold object, sitting at the border between the face and the world. To wear them is to commit to a particular ontology. To swap them is to change worlds without moving.\n\nThe suit signals. The glasses determine. One is social theatre; the other is cognitive architecture. A man who looks through the right lens sees further than the impeccably dressed man staring with bare eyes at what everyone else has agreed to call real.\n\nAppearance is not epistemology. But it has been mistaken for it long enough that the confusion is now structural. The question is no longer what you wear but what you see through.\n\nThe curator's glasses are not ornamental. They are a verdict dressed as a method. And the artwork, once placed, has no choice but to confess."
-        },
         {
        type: 'image',
         content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Curators%20Glasses/CGPREVIEW.002.png',
@@ -494,42 +491,25 @@ export const catalogData: Work[] = [
         title: 'REAL ESTATE MANIAC',
         content: '',
       },
-
-       {
-        type: 'text',
-        content: 'Capital needs a face. Something that can be gold-plated, reproduced, placed at the center of a radiant field.',
-      },
        {
         type: 'image',
         content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/REM.png',
        
       },
-       {
-        type: 'text',
-        content: 'The sacred and the speculative have always shared a grammar. Both promise transformation of the ordinary into the transcendent. Both require an object of devotion sufficiently open to receive the projections of many. Both produce architecture disproportionate to human scale. The monstrance and the skyscraper are the same argument made in different centuries: here is the center, here is the light coming off it.',
-      },
+      
        {
         type: 'image',
         content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rem321%20Medium.png',
        
       },
-       {
-        type: 'text',
-        content: 'What the work notices is that the iconography was never metaphor. It was always the actual operating logic.',
-      },
+      
        {
         type: 'image',
         content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rematoll.png',
       },
-      {type: 'text',
-        content: 'Hair as halo. Tower as reliquary. The atoll receiving the monument while it sinks.\n\nWhat rises from water that is already disappearing is not simply a building. It is a conviction that ownership suspends time — that to put your name on something is to exempt it from the processes that unmake everything else. The reef has a different view. So does the rubble.'
-      },
+     
       { type: 'image',
         content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/remrem1.jpeg'
-      },
-      
-        { type: 'text',
-        content: 'The maniac of the title is not a diagnosis. It is a job description.'
       },
        { type: 'image',
       content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rembo2%20Large.png'
@@ -595,9 +575,6 @@ export const catalogData: Work[] = [
       { type: 'text',
         title: 'TRANSCENDENTAL MACHINE',
         content: ''
-        },
-        { type: 'text',
-        content: 'The photographic lens opens an interval.\n\nEach frame locates a stratum where light and color have not yet been assigned to objects — where they move as conditions rather than attributes. The world held here has not yet settled into its names.\n\nThe familiar remains present inside the flux, identifiable at a register below nomination. Observer and observed share a deferral — the moment before the partition between them firms up.\n\nCategories arrive after the fact, applied to something already occurring without them.\n\nThese images register that prior occurrence.'
         },
          {
         type: 'image',
