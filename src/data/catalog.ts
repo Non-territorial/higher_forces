@@ -502,21 +502,17 @@ export const catalogData: Work[] = [
        
       },
       
-       {
-        type: 'image',
-        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rematoll.png',
-      },
      
       { type: 'image',
-        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/remrem1.jpeg'
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rem333.png'
       },
        { type: 'image',
       content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rembo2%20Large.png'
     },
        {
         type: 'mixed',
-        content: '6 Photographic collages\n\nPrints on paper',
-        imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/remrem2.jpeg'
+        content: '9 Photographic collages\n\nPrints on paper',
+        imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rem3bis.png'
       },
        
        
