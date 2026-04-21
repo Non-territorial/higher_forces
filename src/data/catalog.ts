@@ -576,6 +576,9 @@ export const catalogData: Work[] = [
         title: 'TRANSCENDENTAL MACHINE',
         content: ''
         },
+        { type: 'text',
+        content: 'This photographic series is about the beauty of life, and the unconditional love for everything what is.'
+        },
          {
         type: 'image',
         content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0015%20Large.png',
