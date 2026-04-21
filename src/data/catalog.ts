@@ -504,7 +504,7 @@ export const catalogData: Work[] = [
       
      
       { type: 'image',
-        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rem333.png'
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rem333%20Large.png'
       },
        { type: 'image',
       content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/Real%20estate%20maniac/rembo2%20Large.png'
