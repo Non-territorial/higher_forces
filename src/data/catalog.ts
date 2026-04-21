@@ -83,7 +83,6 @@ export const catalogData: Work[] = [
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/calculated/collage/c_close-up_4.PNG',
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/calculated/collage/c_close-up_5.jpeg',
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/calculated/collage/p_07.png',
-          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/calculated/4_calculated.jpeg',
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/calculated/collage/b_01.jpeg',
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/calculated/collage/b_02.png'
         ]
