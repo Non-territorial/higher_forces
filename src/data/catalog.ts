@@ -27,6 +27,9 @@ export const catalogData: Work[] = [
         title: 'THE DISPLAY',
         content:'\nA large electronic board. The visual language is instantly legible: commodity markets, metal exchanges, the infrastructure through which serious things become numbers and numbers become real.\n\nArtist names, unit prices, weight categories. The categories shift. Some artists are priced by the gram like precious metals. Some by the kilogram. Some by the tonne.\n\nThe unit of measurement is not incidental. It is the entire statement.\n\nCattelan by the gram. Hirst by the gram, declining, rising, declining again — the oscillation that passes for meaning in financial systems. A lesser-known artist by the gram at four euros. Every artist on the list submitted to the same question, the only question the market actually poses: how much of you, by weight, can I purchase?\n\nThe obscenity is not in the content. It is in the accuracy.\n\nBAI UEIT refuses the consolation of depth. There is only the first question, looping, updating, real-time, referring only to itself. '
       },
+      { type: 'image',
+        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/bai_ueit/baiueitroom.jpeg'
+      },
        {
         type: 'text',
         title: 'THE ORIGINAL SITUATION: DUBAI GOLD 24, ROME',
@@ -38,10 +41,9 @@ export const catalogData: Work[] = [
         content:'\nThrough cinematic documentation of the Dubai Gold 24 installation, BAI UEIT generates a distributed autonomous form: the Replicable Preview Lounge. The cinematic installation becomes the work. The salesman, the display, the red light, the visitors faces — documented, restructured, distributed.\n\nNo shipping. No customs. No climate control. No insurance.\n\nThe display runs.'
       },
        {
-        type: 'mixed',
+        type: 'text',
         title: 'EXHIBITION',
         content:'\nArtwork by Weight\nCinematic Installation\n\nBAI UEIT is available for institutional exhibition in multiple configurations — from the single-channel cinematic installation to the full live-feed installation requiring screens and a network connection. It functions equally within commercial spaces and conventional gallery contexts.\n\nInstitutional proposals and collector enquiries are welcome.\n\nDubai Gold 24 Store,\n178 Via Principe Amedeo, Rome, Italy\n2018 — ongoing',
-        imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/bai_ueit/dubai_gold.jpeg'
       },
     ]},
   {
