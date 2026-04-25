@@ -46,7 +46,7 @@ export default function Carousel({ work, onClose }: CarouselProps) {
 <div className={slide.type === 'image' ? 'fixed inset-0 pointer-events-auto' : 'w-full md:w-auto max-w-4xl px-6 md:px-0 pointer-events-auto'}>
   {slide.type === 'text' && (
   <div
-    className={`text-white/70 leading-relaxed whitespace-pre-wrap text-sm md:text-base lg:text-base w-full overflow-hidden break-words max-h-[80vh] overflow-y-auto md:max-h-none md:overflow-visible`} style={{ fontFamily: 'iAWriterDuoS, monospace' }}
+    className={`text-white/70 leading-relaxed whitespace-pre-wrap text-sm md:text-base lg:text-base w-full overflow-hidden wrap-break-word max-h-[80vh] overflow-y-auto md:max-h-none md:overflow-visible`} style={{ fontFamily: 'iAWriterDuoS, monospace' }}
   >
     {slide.title && (
       <div className="text-white/70 text-xl md:text-2xl lg:text-3xl mb-2" style={{ fontFamily: 'isocpeur' }}>
