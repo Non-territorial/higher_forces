@@ -18,32 +18,12 @@ export const catalogData: Work[] = [
 
      {
         type: 'text',
-        title: 'THE OBSCENITY OF THE ACCURATE',
-        content:'\nThe art market has a price for everything. BAI UEIT applies these prices honestly. This is the first obscenity. Honesty, in a system that has survived entirely on mystification, is the cruelest form of exposure — not because it reveals something hidden, but because it reveals that there was never anything to hide.\n\nThe obscenity is not in what is shown but in the fact that there is nothing to see.\n\nHundreds, thousands of contemporary artists — the full century of them, the twentieth and the twenty-first, the certified and the forgotten, the deceased and the still actively producing.\n\nTheir work valued by weight. Per gram. Per kilogram. Per tonne. The data streams without pause, without comment, without irony. This last point is essential. The irony is structurally embedded.\n\nTo add irony to it would be to betray the secret rule. The system has already done this work.\n\nThe numbers are shifting as on a trading floor, as on a gold exchange, as in an airport. The departure board of art history, all flights perpetually delayed with all destinations being equivalent.'
+        
+        content:'The art market has a price for everything. BAI UEIT applies these prices honestly — which is the first obscenity. Artists valued by weight: per gram, per kilogram, per tonne. A live feed, without pause, without comment. The numbers shift as on a trading floor, as on a gold exchange.\n\nThe Display is a large electronic board. Artist names, unit prices, weight categories — continuously updated. Some artists priced by the gram. Some by the kilogram. Some by the tonne. Every artist on the list submitted to the same question — the only question the market actually poses: how much of you, by weight, can I purchase?'
       },
 
-      {
-        type: 'text',
-        title: 'THE DISPLAY',
-        content:'\nA large electronic board. The visual language is instantly legible: commodity markets, metal exchanges, the infrastructure through which serious things become numbers and numbers become real.\n\nArtist names, unit prices, weight categories. The categories shift. Some artists are priced by the gram like precious metals. Some by the kilogram. Some by the tonne.\n\nThe unit of measurement is not incidental. It is the entire statement.\n\nCattelan by the gram. Hirst by the gram, declining, rising, declining again — the oscillation that passes for meaning in financial systems. A lesser-known artist by the gram at four euros. Every artist on the list submitted to the same question, the only question the market actually poses: how much of you, by weight, can I purchase?\n\nThe obscenity is not in the content. It is in the accuracy.\n\nBAI UEIT refuses the consolation of depth. There is only the first question, looping, updating, real-time, referring only to itself. '
-      },
       { type: 'image',
         content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/bai_ueit/baiueitroom.jpeg'
-      },
-       {
-        type: 'text',
-        title: 'THE ORIGINAL SITUATION: DUBAI GOLD 24, ROME',
-        content:'\nThe work was first conceived and realised within a functioning gold shop. The salesman remained. The gold remained in its small packaging cases. Only the price boards changed — or rather, did not change in kind, only in content. Where the gold prices scrolled, artist names scroll now. The infrastructure is identical. The merchandise has been substituted. This substitution is the argument.\n\nBy placing the art market inside this infrastructure, BAI UEIT does not critique the art market. It reveals that no critique is necessary. There is nothing behind that curtain. This system is so total in its self-referentiality that the only available critique to take is to enact the hyper conformism of its own logic. The parody is not imposed from outside. It is the faithful mirror of what the system already is.\n\nDubai Gold 24 becomes an art fair for couple of days. The most tradable art, officially and illegally on offer. The art market has always operated in exactly this register: official and illicit, legitimate and predatory, transparent in its mechanisms, opaque in its values.\n\nBAI UEIT simply stages this openly, which is to say ob-scenely. Everything which loses its scene becomes, for that very reason, obscene.\n\nRed lighting, mini projections, sound. A maximum of five to eight visitors at a time. The art fair scaled to its actual human conditions: the private view, the tight room, the few who already know each other, the transaction that precedes the artwork.'
-      },
-       {
-        type: 'text',
-        title: 'THE REPLICABLE PREVIEW LOUNGE',
-        content:'\nThrough cinematic documentation of the Dubai Gold 24 installation, BAI UEIT generates a distributed autonomous form: the Replicable Preview Lounge. The cinematic installation becomes the work. The salesman, the display, the red light, the visitors faces — documented, restructured, distributed.\n\nNo shipping. No customs. No climate control. No insurance.\n\nThe display runs.'
-      },
-       {
-        type: 'text',
-        title: 'EXHIBITION',
-        content:'\nArtwork by Weight\nCinematic Installation\n\nBAI UEIT is available for institutional exhibition in multiple configurations — from the single-channel cinematic installation to the full live-feed installation requiring screens and a network connection. It functions equally within commercial spaces and conventional gallery contexts.\n\nInstitutional proposals and collector enquiries are welcome.\n\nDubai Gold 24 Store,\n178 Via Principe Amedeo, Rome, Italy\n2018 — ongoing',
       },
     ]},
   {
