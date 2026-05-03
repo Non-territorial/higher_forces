@@ -580,7 +580,7 @@ export const catalogData: Work[] = [
         ] 
       },
       { type: 'mixed',
-        content: 'Photographic prints, series of 83',
+        content: 'Photographic prints, series of 60',
         imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0046%20Large.png'
         },
       ]
