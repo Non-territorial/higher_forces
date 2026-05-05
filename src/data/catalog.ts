@@ -509,13 +509,13 @@ export const catalogData: Work[] = [
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0143%20Large.png',
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0148%20Large.png',
           'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0156%20Large.png',
-          'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0024%20Large.png'
+          
           
         ] 
       },
       { type: 'mixed',
-        content: 'Photographic prints, series of 60',
-        imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0046%20Large.png'
+        content: 'Photographic prints, series of 50',
+        imageUrl: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/transcendental%20machine/DSC_0024%20Large.png'
         },
       ]
       },
