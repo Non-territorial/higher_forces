@@ -488,7 +488,7 @@ export const catalogData: Work[] = [
         content: ''
         },
         { type: 'text',
-        content: 'This photographic series is about the beauty of life, and the unconditional love for everything what is.'
+        content: ''
         },
          {
         type: 'image',
