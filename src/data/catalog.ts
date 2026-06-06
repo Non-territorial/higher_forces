@@ -19,7 +19,7 @@ export const catalogData: Work[] = [
      {
         type: 'text',
         
-        content:'The art market has a price for everything. BAI UEIT applies these prices honestly — which is the first obscenity. Artists valued by weight: per gram, per kilogram, per tonne. A live feed, without pause, without comment. The numbers shift as on a trading floor, as on a gold exchange.\n\nThe Display is a large electronic board. Artist names, unit prices, weight categories — continuously updated. Some artists priced by the gram. Some by the kilogram. Some by the tonne. Every artist on the list submitted to the same question — the only question the market actually poses: how much of you, by weight, can I purchase?'
+        content:'The art market has a price for everything. Artists valued by weight: per gram, per kilogram, per tonne. A live feed into the Display of a large electronic board.\n\nArtist names, unit prices, weight categories — continuously updated. Some artists priced by the gram. Some by the kilogram. Some by the tonne.'
       },
 
       { type: 'image',
