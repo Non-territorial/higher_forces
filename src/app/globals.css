@@ -1,20 +1,7 @@
 @import "tailwindcss";
+@source "../app/**/*.{ts,tsx}";
+@source "../components/**/*.{ts,tsx}";
 
-@font-face {
-  font-family: 'iAWriterDuoS';
-  src: url('/fonts/iAWriterDuoS-Regular.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'iAWriterDuoS';
-  src: url('/fonts/iAWriterDuoS-Bold.ttf') format('truetype');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
 
 @font-face {
   font-family: 'isocpeur';
@@ -50,5 +37,6 @@ body {
 }
 
 p {
-  font-family: 'iAWriterDuoS', monospace;
+  font-family: 'isocpeur', monospace;
+  
 }
