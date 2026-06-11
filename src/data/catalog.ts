@@ -274,7 +274,7 @@ export const catalogData: Work[] = [
      {
     id: 'exit-strategy',
     title: 'Exit Strategy',
-    available: true,
+    available: false,
     slides: [
       {
         type: 'text',
@@ -338,7 +338,7 @@ export const catalogData: Work[] = [
      {
     id: 'fully-booked',
     title: 'Fully Booked',
-    available: true,
+    available: false,
     slides: [
       {
         type: 'text',
@@ -349,7 +349,7 @@ export const catalogData: Work[] = [
      {
     id: 'global-silence',
     title: 'Global Silence',
-    available: true,
+    available: false,
     slides: [
       {
         type: 'text',
@@ -371,7 +371,7 @@ export const catalogData: Work[] = [
      {
     id: 'monitoring-room',
     title: 'Monitoring Room',
-    available: true,
+    available: false,
     slides: [
       {
         type: 'text',
@@ -436,7 +436,7 @@ export const catalogData: Work[] = [
   {
     id: 'something-went-terribly-wrong',
     title: 'Something Went Terribly Wrong',
-    available: true,
+    available: false,
     slides: [
       { type: 'text',
         title: 'SOMETHING WENT TERRIBLY WRONG',
@@ -447,7 +447,7 @@ export const catalogData: Work[] = [
      {
     id: 'techno-zombie',
     title: 'Techno Zombie',
-    available: true,
+    available: false,
     slides: [
       {
         type: 'text',
@@ -458,7 +458,7 @@ export const catalogData: Work[] = [
      {
     id: 'the-conference',
     title: 'The Conference',
-    available: true,
+    available: false,
     slides: [
       {
         type: 'text',
@@ -469,7 +469,7 @@ export const catalogData: Work[] = [
      {
     id: 'the-confidence-of-a-british-voice',
     title: 'The Confidence of a British Voice',
-    available: true,
+    available: false,
     slides: [
       {
         type: 'text',
@@ -522,7 +522,7 @@ export const catalogData: Work[] = [
      {
     id: 'windows-of opportunities',
     title: 'Windows of Opportunities',
-    available: true,
+    available: false,
     slides: [
       {
         type: 'text',
