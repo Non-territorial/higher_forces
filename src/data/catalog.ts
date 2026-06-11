@@ -13,7 +13,7 @@ export const catalogData: Work[] = [
         content:''
       },
       { type: 'html',
-        content: '/trailers/bai_ueit_trailer.html'
+        content: '/trailers/bai-ueit.html'
       },
 
      {
@@ -22,9 +22,6 @@ export const catalogData: Work[] = [
         content:'The art market has a price for everything. Artists valued by weight: per gram, per kilogram, per tonne. A live feed into the Display of a large electronic board.\n\nArtist names, unit prices, weight categories — continuously updated. Some artists priced by the gram. Some by the kilogram. Some by the tonne.'
       },
 
-      { type: 'image',
-        content: 'https://utj34qt1qat6euaj.public.blob.vercel-storage.com/bai_ueit/baiueitroom.jpeg'
-      },
     ]},
   {
     id: 'calculated',
